@@ -1,0 +1,21 @@
+*.bin.gz
+*.cache
+*.pyc
+*.sublime-theme
+.DS_Store
+.SublimeREPLHistory
+Color Highlighter
+FileHistory*.json
+FileHistory.sublime-settings
+GitHub.sublime-settings
+GitSavvy/
+OmniMarkupPreviewer/
+oscrypto-ca-bundle.crt
+Package Control.*-ca-bundle
+Package Control.ca-bundle
+Package Control.ca-certs/
+Package Control.ca-list
+Package Control.cache/
+Package Control.last-run
+Package Control.system-ca-bundle
+SublimeLinter/

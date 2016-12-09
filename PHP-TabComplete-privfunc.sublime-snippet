@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * 
+ */
+private function $1()
+{
+    $2
+}
+
+]]></content>
+    <tabTrigger>privfunc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
