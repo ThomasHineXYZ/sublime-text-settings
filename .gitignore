@@ -2,6 +2,7 @@
 *.cache
 *.pyc
 *.sublime-theme
+*.tmTheme
 .DS_Store
 .SublimeREPLHistory
 Color Highlighter

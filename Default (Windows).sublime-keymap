@@ -1,6 +1,6 @@
 [
     { //Insert Date (PHP)
-        "keys": ["ctrl+d"], 
+        "keys": ["ctrl+alt+d"], 
         "command": "insert", 
         "args": {
             "characters": "date('Y-m-d H:i:s');\n"
@@ -12,7 +12,7 @@
         }]
     },
     { //Insert Date (JS)
-        "keys": ["ctrl+d"], 
+        "keys": ["ctrl+alt+d"], 
         "command": "insert", 
         "args": {
             "characters": "var d = new Date();\nvar n = d.toISOString();\n"

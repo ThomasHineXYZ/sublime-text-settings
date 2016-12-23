@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Agila Theme/Agila Light Solarized.tmTheme",
+	"color_scheme": "Packages/Agila Theme/Agila Cobalt.tmTheme",
 	"fade_fold_buttons": false,
 	"font_size": 11,
 	"highlight_line": true,
@@ -19,7 +19,7 @@
 		120
 	],
 	"tab_size": 4,
-	"theme": "Sea Lion.sublime-theme",
+	"theme": "Agila Cobalt.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"update_check": false
 }
