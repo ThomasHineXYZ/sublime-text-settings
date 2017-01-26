@@ -5,6 +5,7 @@
 *.tmTheme
 .DS_Store
 .SublimeREPLHistory
+Character Table/
 Color Highlighter
 FileHistory*.json
 FileHistory.sublime-settings
