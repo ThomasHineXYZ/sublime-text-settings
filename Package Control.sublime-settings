@@ -5,10 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Agila Theme",
 		"Anaconda",
 		"auto-save",
 		"AutoFileName",
+		"BracketHighlighter",
 		"Case Conversion",
 		"ChangeQuotes",
 		"Character Table",
@@ -32,6 +34,7 @@
 		"ImprovedSQL",
 		"INI",
 		"InsertDate",
+		"JavaIME",
 		"MagicPython",
 		"Markdown Extended",
 		"Markdown Preview",
@@ -49,6 +52,7 @@
 		"Pretty YAML",
 		"ProjectManager",
 		"Random Everything",
+		"Restart",
 		"SerializedDataConverter",
 		"SideBarEnhancements",
 		"SqlBeautifier",
