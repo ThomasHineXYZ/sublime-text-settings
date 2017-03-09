@@ -8,7 +8,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Case Conversion",
 		"StringEncode",
 		"Vintage"
 	],
