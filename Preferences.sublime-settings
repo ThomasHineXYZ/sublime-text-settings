@@ -8,8 +8,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"StringEncode",
-		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,

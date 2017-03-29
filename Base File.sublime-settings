@@ -1,0 +1,5 @@
+{
+    "jsdocs_spacer_between_sections": true,
+    "jsdocs_lower_case_primitives": true,
+    "jsdocs_extra_tags": ["${1:[description]}"],
+}

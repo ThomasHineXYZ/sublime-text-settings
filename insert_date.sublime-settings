@@ -1,4 +1,4 @@
 {
-    "tz_in": "America/Vancouver",
-    "format": "%Y-%m-%d"
+	"format": "%Y-%m-%d",
+	"tz_in": "America/Vancouver"
 }
