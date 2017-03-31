@@ -12,6 +12,7 @@
 		"auto-save",
 		"AutoFileName",
 		"AutoItScript",
+		"Boron Color Scheme",
 		"BracketGuard",
 		"BracketHighlighter",
 		"Case Conversion",
@@ -56,6 +57,7 @@
 		"PlainNotes",
 		"PlainTasks",
 		"PokemonTeamSyntax",
+		"PowerShell",
 		"Pretty JSON",
 		"Pretty YAML",
 		"ProjectManager",
@@ -70,11 +72,13 @@
 		"SublimeLinter-contrib-au3check",
 		"SublimeLinter-json",
 		"Syntax Highlighting for Sass",
+		"Terminal",
 		"Text Pastry",
+		"Theme - Afterglow",
 		"Theme - El Capitan",
+		"Theme - Nexus",
 		"Theme - Sea Lion",
 		"Themes Menu Switcher",
-		"Themr",
 		"Trimmer"
 	]
 }

@@ -42,5 +42,9 @@
     {
         "keys": ["ctrl+shift+q"], 
         "command": "consolewrap"
-    }
+    },
+    { 
+        "keys": ["ctrl+shift+t"],
+        "command": "reopen_last_file"
+    },
 ]
