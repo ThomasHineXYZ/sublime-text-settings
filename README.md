@@ -37,9 +37,10 @@ Open a Terminal and run these commands
 #### Windows
 ##### Using GIT
 Open a Command Prompt and run these commands
+
     cd %appdata%\"Sublime Text 3\Packages"
     rmdir User /s
-    git clone <this repo, link above> User
+    git clone <link above in "Clone or download"> User
 
 ##### Direct Download
   * Open a Windows "Run" prompt (Windows Key + R)
