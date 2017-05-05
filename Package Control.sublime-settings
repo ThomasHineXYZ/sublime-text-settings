@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AddLibrary",
 		"Agila Theme",
 		"Anaconda",
 		"AngularJS",
@@ -34,6 +35,7 @@
 		"File History",
 		"FileBrowser",
 		"FontCycler",
+		"FuzzyFilePath",
 		"Git",
 		"GitGutter",
 		"GitSavvy",
