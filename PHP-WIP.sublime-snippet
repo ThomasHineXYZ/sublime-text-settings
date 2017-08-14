@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * WIP: $1
+ */
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>wip</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>pre and print_r</description>
+</snippet>

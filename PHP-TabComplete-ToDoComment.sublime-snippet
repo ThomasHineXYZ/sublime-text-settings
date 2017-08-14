@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-/* To Be Done, TBD, Note: $1 */
-]]></content>
-    <tabTrigger>commenttbd</tabTrigger>
-    <scope>source.php</scope>
-</snippet>
