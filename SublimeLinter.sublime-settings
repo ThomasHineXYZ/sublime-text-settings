@@ -7,6 +7,22 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "annotations": {
+                "@disable": false,
+                "args": [],
+                "errors": [
+                    "FIXME"
+                ],
+                "excludes": [],
+                "warnings": [
+                    "NOTE",
+                    "README",
+                    "TODO",
+                    "@todo",
+                    "XXX",
+                    "WIP"
+                ]
+            },
             "au3check": {
                 "@disable": false,
                 "args": [],
@@ -57,6 +73,7 @@
             "json (settings)": "json",
             "json (stylelint)": "json",
             "json (sublime)": "json",
+            "json (tern js)": "json",
             "magicpython": "python",
             "php": "html",
             "python django": "python",
@@ -71,6 +88,10 @@
             "yaml (stylelint)": "yaml",
             "yaml (yarn)": "yaml"
         },
+        "tooltip_fontsize": "1rem",
+        "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+        "tooltip_theme_excludes": [],
+        "tooltips": false,
         "warning_color": "DDB700",
         "wrap_find": true
     }
