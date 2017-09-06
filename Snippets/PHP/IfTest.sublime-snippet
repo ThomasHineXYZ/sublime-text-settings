@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+// NOTE: Debug test for \$${1:array}
+if (\$${1:array} ${2:=}== "${3:testvalue}") {
+    echo "Wubba Lubba Dub Dub";
+} else {
+    echo "Glip Glop?";
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>iftest</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>if/else test</description>
+</snippet>

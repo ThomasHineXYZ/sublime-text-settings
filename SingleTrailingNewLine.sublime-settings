@@ -6,6 +6,7 @@
 		"Packages/HTML/HTML.sublime-syntax",
 		"Packages/JavaScript/JavaScript.sublime-syntax",
 		"Packages/Markdown/Markdown.sublime-syntax",
-		"Packages/PHP/PHP.sublime-syntax"
+		"Packages/PHP/PHP.sublime-syntax",
+		"Packages/YAML/YAML.sublime-syntax"
 	]
 }
