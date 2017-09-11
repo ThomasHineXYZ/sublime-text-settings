@@ -23,17 +23,13 @@
             "operand": "source.js"
         }]
     },
+    { //Changes to previous tab
+        "keys": ["ctrl+shift+tab"],
+        "command": "prev_view"
+    },
     { //Changes to next tab
         "keys": ["ctrl+tab"],
         "command": "next_view"
-    },
-    { //Changes to previous tab
-        "keys": ["ctrl+shift+tab"],
-        "command": "prev_view"
-    },
-    { //Changes to previous tab
-        "keys": ["ctrl+shift+tab"],
-        "command": "prev_view"
     },
     {
         "keys": ["f5"],
