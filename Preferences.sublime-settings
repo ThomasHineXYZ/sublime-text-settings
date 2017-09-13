@@ -1,8 +1,10 @@
 {
+	"auto_complete_cycle": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/Boron (SL).tmTheme",
 	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_face": "DejaVu Sans Mono",
 	"font_size": 11,
@@ -10,7 +12,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Theme - El Capitan",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
@@ -23,7 +24,9 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_size": 4,
-	"theme": "Gravity.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"update_check": false
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": "off"
 }
