@@ -1,0 +1,2 @@
+# Run this when you do a GIT pull and add the respective keys to the files
+git update-index --assume-unchanged MarkdownPreview.sublime-settings
