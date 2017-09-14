@@ -11,6 +11,7 @@ FileHistory*.json
 FileHistory.sublime-settings
 GitHub.sublime-settings
 GitSavvy/
+MarkdownPreview.sublime-settings
 OmniMarkupPreviewer/
 oscrypto-ca-bundle.crt
 Package Control.*-ca-bundle
