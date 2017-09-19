@@ -1,28 +1,4 @@
 [
-    { //Insert Date (PHP)
-        "keys": ["ctrl+alt+d"],
-        "command": "insert",
-        "args": {
-            "characters": "date('Y-m-d H:i:s');\n"
-        },
-        "context": [{
-            "key": "selector",
-            "operator": "equal",
-            "operand": "source.php"
-        }]
-    },
-    { //Insert Date (JS)
-        "keys": ["ctrl+alt+d"],
-        "command": "insert",
-        "args": {
-            "characters": "var d = new Date();\nvar n = d.toISOString();\n"
-        },
-        "context": [{
-            "key": "selector",
-            "operator": "equal",
-            "operand": "source.js"
-        }]
-    },
     { //Changes to previous tab
         "keys": ["ctrl+shift+tab"],
         "command": "prev_view"
@@ -42,5 +18,5 @@
     {
         "keys": ["ctrl+shift+t"],
         "command": "reopen_last_file"
-    },
+    }
 ]
