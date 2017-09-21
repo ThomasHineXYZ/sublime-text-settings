@@ -4,7 +4,6 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/Boron (SL).tmTheme",
 	"default_line_ending": "unix",
-	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_face": "DejaVu Sans Mono",
 	"font_size": 11,
@@ -26,7 +25,6 @@
 	"tab_size": 4,
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
 	"word_wrap": "off"
 }
