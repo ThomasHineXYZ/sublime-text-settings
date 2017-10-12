@@ -4,6 +4,7 @@
 echo "<pre>";
 print_r(\$${1:array});
 echo "</pre>";
+exit();
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>debugarray</tabTrigger>
