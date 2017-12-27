@@ -1,9 +1,9 @@
 [
-    { //Changes to previous tab
+    { // Changes to previous tab
         "keys": ["ctrl+shift+tab"],
         "command": "prev_view"
     },
-    { //Changes to next tab
+    { // Changes to next tab
         "keys": ["ctrl+tab"],
         "command": "next_view"
     },
