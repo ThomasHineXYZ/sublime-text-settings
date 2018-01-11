@@ -16,6 +16,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"ASCII Cowpletions",
+		"ColorHelper",
+		"ColorPicker",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,

@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-<img src="http://via.placeholder.com/${1:350}x${2:150}" />
+<img src="data:image/${1:jpg};base64,${2:b64_text_goes_here}" />
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>imgtemp</tabTrigger>
+    <tabTrigger>img64</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.html,source.php,source.js</scope>
-    <description>Placeholder Image</description>
+    <description>IMG Tag for a Base64 encoded image</description>
 </snippet>

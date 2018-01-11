@@ -1,13 +1,14 @@
 <snippet>
     <content><![CDATA[
-// NOTE: Debug printout for \$${1:query}
-\$${1:query}->debugDumpParams();
+// NOTE: Debug printout for \$${1:array}
+echo gettype(\$${1:array});
+echo "|".\$${1:array}."|";
 exit();
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>debugpdoquery</tabTrigger>
+    <tabTrigger>debugvariable</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <!-- Optional: Description to show in the menu -->
-    <description>Dumps out parameters for PDO</description>
+    <description>Prints out type and contents of a variable</description>
 </snippet>
