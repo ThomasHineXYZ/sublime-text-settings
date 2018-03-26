@@ -1,4 +1,5 @@
 <snippet>
+    <!-- Work in Progress Docblock-style template -->
     <content><![CDATA[
 /**
  * WIP: $1

@@ -1,4 +1,5 @@
 <snippet>
+    <!-- Prints out the type of variable, and the contents of it -->
     <content><![CDATA[
 // NOTE: Debug printout for \$${1:array}
 echo gettype(\$${1:array});

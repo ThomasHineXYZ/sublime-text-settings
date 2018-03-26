@@ -1,4 +1,5 @@
 <snippet>
+    <!-- A template for a Base64 encoded image -->
     <content><![CDATA[
 <img src="data:image/${1:jpg};base64,${2:b64_text_goes_here}" />
 ]]></content>

@@ -1,4 +1,5 @@
 <snippet>
+    <!-- Template for an ultra-basic document.ready for jQuery -->
     <content><![CDATA[
 \$(document).ready(function() {
     ${1://put all your jQuery goodness in here.}

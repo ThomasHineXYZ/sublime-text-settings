@@ -1,4 +1,5 @@
 <snippet>
+    <!-- PDO Query and execute template for PHP/PDO -->
     <content><![CDATA[
 \$${1:query} = $this->db->prepare("
     SELECT *

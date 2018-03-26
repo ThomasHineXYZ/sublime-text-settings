@@ -1,4 +1,5 @@
 <snippet>
+    <!-- PDO Query template for PHP/PDO -->
     <content><![CDATA[
 \$query = $this->db->query("
     query_goes_here

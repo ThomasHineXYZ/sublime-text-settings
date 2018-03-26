@@ -1,4 +1,5 @@
 <snippet>
+    <!-- For debugging an array in rendered PHP -->
     <content><![CDATA[
 // NOTE: Debug printout for \$${1:array}
 echo "<pre>";

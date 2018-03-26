@@ -1,4 +1,5 @@
 <snippet>
+    <!-- To Do Docblock-style template -->
     <content><![CDATA[
 /**
  * TODO: $1

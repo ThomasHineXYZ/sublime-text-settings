@@ -1,4 +1,6 @@
 <snippet>
+    <!-- Template arrays for replacing special characters with their standard -->
+    <!-- latin equivalents -->
     <content><![CDATA[
 // Replaces the accents with their standard Latin alphabet equivalents
 \$accentChars = array(

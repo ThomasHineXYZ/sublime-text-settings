@@ -1,4 +1,5 @@
 <snippet>
+    <!-- Prints out the PDO debug parameters -->
     <content><![CDATA[
 // NOTE: Debug printout for \$${1:query}
 \$${1:query}->debugDumpParams();

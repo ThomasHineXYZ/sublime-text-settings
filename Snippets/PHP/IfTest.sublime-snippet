@@ -1,7 +1,8 @@
 <snippet>
+    <!-- Basic if/else test for a variable -->
     <content><![CDATA[
 // NOTE: Debug test for \$${1:array}
-if (\$${1:array} ${2:=}== "${3:testvalue}") {
+if (\$${1:variable} ${2:=}== "${3:testvalue}") {
     echo "Wubba Lubba Dub Dub";
 } else {
     echo "Glip Glop?";

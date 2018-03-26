@@ -1,4 +1,6 @@
 <snippet>
+    <!-- A template for splitting a variable at new lines -->
+    <!-- You'd be surprised how often you use this... -->
     <content><![CDATA[
 \$${1:output} = preg_split("/\\r\\n|\\r|\\n/", \$${2:input});
 ]]></content>
