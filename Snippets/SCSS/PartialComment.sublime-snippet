@@ -1,0 +1,15 @@
+<snippet>
+    <!-- Type `partialcomment` or `pcomment` and hit tab to output a comment block. -->
+    <!-- Type a short description of your partial and you're good to go! -->
+    <content><![CDATA[
+//--------------------------------------------------------------
+// ${1:Partial Description}
+//--------------------------------------------------------------
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>partialcomment</tabTrigger>
+    <tabTrigger>pcomment</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.scss</scope>
+</snippet>
+<!-- Grabbed from https://webdevstudios.com/2016/08/16/snippets-saved-life-how-sublime-text-3-snippets-changed-everything/ -->
