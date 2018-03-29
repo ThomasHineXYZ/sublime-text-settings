@@ -9,6 +9,7 @@
 		"AddLibrary",
 		"AlignTab",
 		"AngularJS",
+		"ApacheConf",
 		"ASCII Cowpletions",
 		"ASCII Decorator",
 		"AutoFileName",
@@ -61,8 +62,10 @@
 		"Pretty YAML",
 		"ProjectManager",
 		"Python 3",
+		"rainbow_csv",
 		"Random Everything",
 		"Restart",
+		"Sass",
 		"SerializedDataConverter",
 		"SideBarEnhancements",
 		"SSH Config",
@@ -74,12 +77,10 @@
 		"TabsExtra",
 		"Terminal",
 		"Text Pastry",
+		"TodoTxt Syntax",
 		"TrailingSpaces",
 		"Trimmer",
 		"TypeScript",
-		"ZenScript",
-		"Sass",
-		"ApacheConf",
-		"TodoTxt Syntax"
+		"ZenScript"
 	]
 }
