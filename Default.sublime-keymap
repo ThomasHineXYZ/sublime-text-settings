@@ -1,0 +1,22 @@
+[
+    { // Changes to previous tab
+        "keys": ["ctrl+shift+tab"],
+        "command": "prev_view"
+    },
+    { // Changes to next tab
+        "keys": ["ctrl+tab"],
+        "command": "next_view"
+    },
+    {
+        "keys": ["f5"],
+        "command": "insert_date_panel"
+    },
+    {
+        "keys": ["ctrl+shift+q"],
+        "command": "consolewrap"
+    },
+    {
+        "keys": ["ctrl+shift+t"],
+        "command": "reopen_last_file"
+    }
+]
