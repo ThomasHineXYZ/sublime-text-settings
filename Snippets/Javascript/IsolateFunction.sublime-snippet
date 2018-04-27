@@ -1,0 +1,12 @@
+<snippet>
+    <!-- Template for an isolated JS function -->
+    <content><![CDATA[
+(function(${1:\$}) {
+    ${3:// function stuff goes here}
+})(${2:jQuery});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>isolate</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>
