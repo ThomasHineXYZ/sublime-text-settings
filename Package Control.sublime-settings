@@ -47,7 +47,6 @@
 		"jQuery",
 		"MagicPython",
 		"Markdown Extended",
-		"Markdown Preview",
 		"Marshal Command Code",
 		"Minecraft Command Format",
 		"Monokai Extended",
@@ -82,6 +81,7 @@
 		"TrailingSpaces",
 		"Trimmer",
 		"TypeScript",
-		"ZenScript"
+		"ZenScript",
+		"MarkdownPreview"
 	]
 }
