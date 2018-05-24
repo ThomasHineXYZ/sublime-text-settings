@@ -37,6 +37,7 @@
 		"Git",
 		"GitGutter",
 		"GitSavvy",
+		"HexViewer",
 		"HTML5",
 		"HttpStatusCode",
 		"Icon Fonts",
@@ -47,6 +48,7 @@
 		"jQuery",
 		"MagicPython",
 		"Markdown Extended",
+		"MarkdownPreview",
 		"Marshal Command Code",
 		"Minecraft Command Format",
 		"Monokai Extended",
@@ -81,7 +83,6 @@
 		"TrailingSpaces",
 		"Trimmer",
 		"TypeScript",
-		"ZenScript",
-		"MarkdownPreview"
+		"ZenScript"
 	]
 }
