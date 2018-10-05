@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * ${1:Title of the project}: ${2:Specific command name}
+ *
+ * ${3:Short description about the project}
+ *
+ * $0Usage: ./run/${4:scrape} ${5:test.this.thing} <${9:argument1}> <${10:argument2}>
+ *
+ */
+'${6:${5}}' => function (\$${9}, \$${10}) use (\$app) {
+    return $app['${7:${5}}']->${8:execute}(\$${9}, \$${10});
+},
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>runcommand</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>

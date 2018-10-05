@@ -1,0 +1,28 @@
+<snippet>
+    <!-- Outline for a PHP Object -->
+    <content><![CDATA[
+
+namespace ${1:location_of_the_class};
+
+/**
+ * ${2:What is the plan for this thing to do}
+ */
+class ${3:ClassName}
+{
+    public \$${4:thing} = "";
+
+    function __construct(\$${4:thing})
+    {
+        \$this->${4:thing} = \$${4:thing};
+    }
+
+    $0
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>basicobject</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Outline for a PHP Class / Object</description>
+</snippet>
