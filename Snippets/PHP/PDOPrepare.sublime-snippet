@@ -1,0 +1,22 @@
+<snippet>
+    <!-- PDO Query template for PHP/PDO -->
+    <content><![CDATA[
+try {
+    // $0
+    \$query = \$this->${1:db}->prepare("
+        ${2}
+    ");
+    \$query->execute(${3:[]});
+
+} catch (Exception \$exception) {
+    if (\$this->${1}->inTransaction()) {
+        \$this->${1}->rollBack();
+    }
+    throw new Exception("Error Processing Request: \$exception", 1);
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pdoprepare</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+public function test${1/(.+)/\u$1/g}()
+{
+    // Set up and run the "${1:functionName}" function
+    \$method = new \ReflectionMethod(\$this->service, "${1}");
+    \$method->setAccessible(true);
+    \$${2:metadata} = \$method->invoke(\$this->service, ${3:inputValue1});
+
+    // Test returned values
+    \$this->assertEquals(${4:AssertedValue}, \$${2});
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>phpunittestprivate</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>PHP Unit test for private functions</description>
+</snippet>
