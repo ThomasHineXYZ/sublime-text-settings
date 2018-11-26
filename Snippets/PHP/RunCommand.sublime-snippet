@@ -9,7 +9,7 @@
  *
  */
 '${6:${5}}' => function (\$${9}, \$${10}) use (\$app) {
-    return $app['${7:${5}}']->${8:execute}(\$${9}, \$${10});
+    return \$app['${7:${5}}']->${8:execute}(\$${9}, \$${10});
 },
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
