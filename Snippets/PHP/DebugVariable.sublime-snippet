@@ -2,6 +2,8 @@
     <!-- Prints out the type of variable, and the contents of it -->
     <content><![CDATA[
 // NOTE: Debug printout for \$${1:array}
+echo PHP_EOL;
+echo "${1:array}" . PHP_EOL;
 echo gettype(\$${1:array}) . PHP_EOL;
 echo "|" . \$${1:array} . "|" . PHP_EOL;
 exit();
