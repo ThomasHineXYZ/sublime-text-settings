@@ -1,0 +1,16 @@
+<snippet>
+    <!-- Prints out the type of variable, and the contents of it -->
+    <content><![CDATA[
+// NOTE: Debug printout for \$${1:dateTime} DateTime
+echo PHP_EOL;
+echo "${1:dateTime}" . PHP_EOL;
+echo \$${1:dateTime}->format("Y-m-d H:i:s") . PHP_EOL;
+exit();
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>debugdatetime</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Prints out the standard Y-m-d H:i:s for a datetime object</description>
+</snippet>

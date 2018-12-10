@@ -3,6 +3,7 @@
     <content><![CDATA[
 // NOTE: Debug printout for \$${1:array}
 echo PHP_EOL;
+echo "Output of ${1:array}:" . PHP_EOL;
 print_r(\$${1:array});
 exit();
 ]]></content>
