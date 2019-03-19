@@ -1,10 +1,10 @@
 <snippet>
     <!-- PDO Query template for PHP/PDO -->
     <content><![CDATA[
-\$query = $this->db->query("
+\$query = \$this->db->query("
     query_goes_here
 ");
-\$result = $query->fetchAll(PDO::FETCH_GROUP);
+\$result = \$query->fetchAll(PDO::FETCH_GROUP);
 # Two columns -> FETCH_KEY_PAIR
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
