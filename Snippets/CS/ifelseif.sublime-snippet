@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+if (${1:variable} == ${2:value}) {
+    ${5:thing_to_do}
+} else if (${1:variable} == ${3:other_value}) {
+    ${6:other_thing_to_do}
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ifelseif</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.cs</scope>
+</snippet>
