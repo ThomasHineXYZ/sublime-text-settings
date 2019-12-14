@@ -102,7 +102,7 @@
 \$${1:str} = strtr(\$${1:str}, \$accentChars);
 
 // Replaces additional special characters with their standard equivalents
-$specialChars = array(
+\$$specialChars = array(
     chr(194).chr(150) => '-', // "minus"
     chr(194).chr(151) => '-' // longer "minus"
 );
