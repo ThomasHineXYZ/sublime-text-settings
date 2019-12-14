@@ -20,10 +20,9 @@
 		"ASCII Cowpletions",
 		"ColorHelper",
 		"ColorPicker",
-		"Discord Rich Presence",
 		"DataConverter",
+		"Discord Rich Presence",
 		"ProjectManager",
-		"TodoTxt Syntax",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,

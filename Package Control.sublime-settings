@@ -53,6 +53,7 @@
 		"Minecraft Command Format",
 		"Monokai Extended",
 		"Package Control",
+		"PackageDev",
 		"PHP Companion",
 		"PHP-Twig",
 		"PKGBUILD",
@@ -66,7 +67,6 @@
 		"Python 3",
 		"rainbow_csv",
 		"Random Everything",
-		"Restart",
 		"RevertFontSize",
 		"Sass",
 		"SerializedDataConverter",
@@ -75,15 +75,12 @@
 		"StripHTML",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
-		"SublimeLinter-contrib-au3check",
 		"SublimeLinter-json",
 		"TabsExtra",
 		"Terminal",
 		"Text Pastry",
-		"TodoTxt Syntax",
 		"TrailingSpaces",
 		"Trimmer",
-		"TypeScript",
-		"ZenScript"
+		"TypeScript"
 	]
 }
