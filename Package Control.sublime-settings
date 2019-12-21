@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"PKGBUILD"
 	],
 	"installed_packages":
 	[
@@ -24,11 +23,9 @@
 		"Character Table",
 		"CloseOtherWindows",
 		"Color Highlighter",
-		"ColorHelper",
-		"ColorPicker",
 		"Compare Side-By-Side",
+		"ComposerPackageInfo",
 		"Console Wrap",
-		"DataConverter",
 		"Discord Rich Presence",
 		"DistractionFreeWindow",
 		"DocBlockr",
@@ -39,7 +36,6 @@
 		"Git",
 		"GitGutter",
 		"GitSavvy",
-		"HexViewer",
 		"HTML5",
 		"HttpStatusCode",
 		"Icon Fonts",
@@ -52,7 +48,6 @@
 		"MarkdownPreview",
 		"Marshal Command Code",
 		"Minecraft Command Format",
-		"Monokai Extended",
 		"Package Control",
 		"PackageDev",
 		"PHP Companion",
@@ -64,8 +59,6 @@
 		"PowerShell",
 		"Pretty JSON",
 		"Pretty YAML",
-		"ProjectManager",
-		"Python 3",
 		"rainbow_csv",
 		"Random Everything",
 		"RevertFontSize",
