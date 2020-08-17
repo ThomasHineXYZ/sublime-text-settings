@@ -1,0 +1,16 @@
+{
+    "config": [
+        "${file_path}/.php_cs",
+        "${file_path}/.php_cs.dist",
+        "${folder}/.php_cs",
+        "${folder}/.php_cs.dist",
+        "~/.php_cs",
+        "~/.php_cs.dist",
+        "~/.phpcsfixer"
+    ],
+
+    "exclude": [
+        ".*[\\\\/]vendor[\\\\/].*", // vendor-path (used by Composer)
+        ".*\\.phtml$" // files ending with ".phtml"
+    ]
+}

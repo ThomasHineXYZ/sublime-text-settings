@@ -50,7 +50,26 @@
 				"open_automatically" : false // will close the view/tab and launch the application
 			},
 
-			{"caption":"-"}
+			{"caption":"-"},
+
+			//application PHP CS Checker?
+			{
+				"caption": "PHP CS Fixer",
+				"id": "side-bar-files-open-with-php-cs-fixer",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": ["$HOME/.config/composer/vendor/bin/"],
+					"application": "./php-cs-fixer", // OSX
+					"extensions":"php",  //any file with these extensions
+					"args":[
+						"fix",
+						"$PATH",
+						"--rules=@PSR2"
+					]
+				},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
 		]
 	}
 ]

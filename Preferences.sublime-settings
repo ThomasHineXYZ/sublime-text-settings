@@ -18,6 +18,8 @@
 	"ignored_packages":
 	[
 		"ASCII Cowpletions",
+		"Discord Rich Presence",
+		"SSH Config",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
