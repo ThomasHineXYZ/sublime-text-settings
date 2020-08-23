@@ -2,4 +2,10 @@
     "anaconda_gutter_theme": "retina",
     "anaconda_linting_behaviour": "load-save",
     "anaconda_linter_mark_style": "squiggly_underline",
+    "autoformat_ignore":
+    [
+        "E309", // In the Anaconda default settings this is ignored
+        "W604" // This is to allow backticks in quotes
+    ],
+    "pep8_max_line_length": 120, // Because 79 is waaaaaay too short
 }
