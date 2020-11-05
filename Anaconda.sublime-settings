@@ -7,6 +7,7 @@
         "E128", // Split lines. Might not need for too long, but for now this is annoying
         "E309", // In the Anaconda default settings this is ignored
         "W503", // Split lines. Might not need for too long, but for now this is annoying
+        "W504", // Split lines. Might not need for too long, but for now this is annoying
         "W604", // This is to allow backticks in quotes
     ],
     "pep8_max_line_length": 120, // Because 79 is waaaaaay too short
