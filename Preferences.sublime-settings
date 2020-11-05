@@ -17,10 +17,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"ASCII Cowpletions",
 		"Discord Rich Presence",
-		"SSH Config",
-		"PKGBUILD",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
