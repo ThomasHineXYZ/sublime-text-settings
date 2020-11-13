@@ -1,0 +1,7 @@
+{
+    "target": "terminus_exec",
+    "cancel": "terminus_cancel_build",
+    "cmd": ["python3", "$file"],
+    "selector": "source.python",
+    "working_dir": "$folder"
+}
