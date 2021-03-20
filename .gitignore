@@ -1,8 +1,11 @@
 *.bin.gz
 *.cache
+*.hidden-tmTheme.chback
 *.pyc
 *.sublime-theme
 *.tmTheme
+*.tmTheme.cache
+*.tmTheme.chback
 .DS_Store
 .SublimeREPLHistory
 Character Table/
