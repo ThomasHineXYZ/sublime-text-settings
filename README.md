@@ -1,6 +1,8 @@
 # Sublime Text 3 - User Directory
 These are my settings and packages that I have installed for my personal use, if you find them useful, feel free to use them for yourself. If you wish to see my Sublime Text 3 settings you can [click here](https://github.com/guitaristtom/sublimemergesettings).
 
+_**This is the final iteration of my settings before Sublime Text 4 was released publically. I thought I'd make this a separate branch just in case.**_
+
 ### Pre-installation
 
 Follow this guide on how to get Sublime Text 3 up and running on your system
