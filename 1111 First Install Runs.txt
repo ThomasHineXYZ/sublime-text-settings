@@ -1,0 +1,5 @@
+# This is a list of commands that you probably should run when you first install / set up my settings
+
+# For PHP fixing
+composer global require friendsofphp/php-cs-fixer
+
