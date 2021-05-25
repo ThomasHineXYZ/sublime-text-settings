@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>name</key>
+  <string>Carlon</string>
+  <key>website</key>
+  <string>https://github.com/carlosefr/SublimeText-Carlon-Theme</string>
+  <key>comment</key>
+  <string>Last update: Apr 9 2017</string>
+  <key>settings</key>
+  <array>
+    <dict>
+      <key>settings</key>
+      <dict>
+        <key>background</key>
+        <string>#151515</string>
+        <key>foreground</key>
+        <string>#e8e8d3</string>
+
+        <key>caret</key>
+        <string>#b0d0f0</string>
+        <key>invisibles</key>
+        <string>#707070</string>
+        <key>selection</key>
+        <string>#404040</string>
+        <key>lineHighlight</key>
+        <string>#202024</string>
+        <key>gutterForeground</key>
+        <string>#373737</string>
+
+        <key>findHighlight</key>
+        <string>#b0d0f0</string>
+        <key>findHighlightForeground</key>
+        <string>#151515</string>
+
+        <key>guide</key>
+        <string>#262626</string>
+        <key>stackGuide</key>
+        <string>#262626</string>
+        <key>activeGuide</key>
+        <string>#404040</string>
+
+        <key>bracketsForeground</key>
+        <string>#d8d8d3</string>
+        <key>bracketsOptions</key>
+        <string>underline</string>
+        <key>bracketContentsForeground</key>
+        <string>#989893</string>
+        <key>bracketContentsOptions</key>
+        <string>underline</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Comment</string>
+      <key>scope</key>
+      <string>comment</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#888888</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>String</string>
+      <key>scope</key>
+      <string>string</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#99ad6a</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>String begin/end</string>
+      <key>scope</key>
+      <string>punctuation.definition.string.begin, punctuation.definition.string.end</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#556633</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Symbol</string>
+      <key>scope</key>
+      <string>constant.other</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#7697d6</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Regexp</string>
+      <key>scope</key>
+      <string>string.regexp</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#dd0093</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Variable</string>
+      <key>scope</key>
+      <string>variable, support.class</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#ffb964</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Number</string>
+      <key>scope</key>
+      <string>constant.numeric</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#cf6a4c</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Entity</string>
+      <key>scope</key>
+      <string>entity</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#ffb964</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Entity Function</string>
+      <key>scope</key>
+      <string>entity.name.function</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#fad07a</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Keyword</string>
+      <key>scope</key>
+      <string>keyword.control</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#8fbfdc</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Keyword</string>
+      <key>scope</key>
+      <string>keyword.other</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#8fbfdc</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Storage</string>
+      <key>scope</key>
+      <string>storage</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#8fbfdc</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Diff insertion</string>
+      <key>scope</key>
+      <string>diff.inserted, markup.inserted</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#558f1f</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Diff deletion</string>
+      <key>scope</key>
+      <string>diff.deleted, markup.deleted</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#a1000d</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Diff header</string>
+      <key>scope</key>
+      <string>meta.diff.header</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FFFFFF</string>
+        <key>background</key>
+        <string>#4e738a</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Diff range</string>
+      <key>scope</key>
+      <string>meta.diff.range</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
+        <key>foreground</key>
+        <string>#888888</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Diff changed</string>
+      <key>scope</key>
+      <string>markup.changed</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#967efb</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Line continuation</string>
+      <key>scope</key>
+      <string>punctuation.separator.continuation.line</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#4e738a</string>
+      </dict>
+    </dict>
+
+    <!-- Language-specific Tweaks -->
+
+    <!-- Python: Highlight "in", "not", "and", "or" as proper keywords: -->
+    <dict>
+      <key>name</key>
+      <string>Keyword</string>
+      <key>scope</key>
+      <string>keyword.operator.logical.python</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#8fbfdc</string>
+      </dict>
+    </dict>
+
+    <!-- Python: Highlight builtin functions and type constructors the same as regular function calls: -->
+    <dict>
+      <key>name</key>
+      <string>Builtin Function</string>
+      <key>scope</key>
+      <string>support.function.builtin.python, support.function.magic.python, support.type.python</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#ffb964</string>
+      </dict>
+    </dict>
+
+    <!-- Python: Always highlight decorators as function calls, even when they have no parameters: -->
+    <dict>
+      <key>name</key>
+      <string>Decorator</string>
+      <key>scope</key>
+      <string>meta.annotation.python - punctuation, meta.annotation.function.python - punctuation - meta.annotation.arguments</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#ffb964</string>
+      </dict>
+    </dict>
+
+    <!-- Python: Highlight the "@" operator in decorators: -->
+    <dict>
+      <key>name</key>
+      <string>Decorator Operator</string>
+      <key>scope</key>
+      <string>punctuation.definition.annotation.python</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#dc3264</string>
+      </dict>
+    </dict>
+
+    <!-- Python: Prevent inconsistent highlighting of constants: -->
+    <dict>
+      <key>name</key>
+      <string>Constant</string>
+      <key>scope</key>
+      <string>variable.other.constant.python</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#e8e8d3</string>
+      </dict>
+    </dict>
+
+    <!-- Shell: Prevent highlighting of common words (eg. "install", "enable")
+         that are most often wrong due to lack of context-awareness: -->
+    <dict>
+      <key>name</key>
+      <string>Keyword</string>
+      <key>scope</key>
+      <string>keyword.other.shell</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#e8e8d3</string>
+      </dict>
+    </dict>
+
+    <!-- Shell: Highlight builtin commands: -->
+    <dict>
+      <key>name</key>
+      <string>Shell Builtin</string>
+      <key>scope</key>
+      <string>support.function.builtin.shell</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#8fbfdc</string>
+      </dict>
+    </dict>
+
+    <!-- Shell: Highlight commands that run with elevated privileges: -->
+    <dict>
+      <key>name</key>
+      <string>Privileged Command</string>
+      <key>scope</key>
+      <string>support.command.privileged.shell</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#dc3264</string>
+      </dict>
+    </dict>
+
+    <!-- C: Prevent inconsistent highlighting of function parameters. -->
+    <dict>
+      <key>name</key>
+      <string>Function Parameter</string>
+      <key>scope</key>
+      <string>variable.parameter.c</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#e8e8d3</string>
+      </dict>
+    </dict>
+
+    <!-- C: Prevent inconsistent highlighting of function calls. -->
+    <dict>
+      <key>name</key>
+      <string>Function</string>
+      <key>scope</key>
+      <string>variable.function.c</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#e8e8d3</string>
+      </dict>
+    </dict>
+
+    <!-- C: Highlight common data types from "sys/types.h". -->
+    <dict>
+      <key>name</key>
+      <string>POSIX Type</string>
+      <key>scope</key>
+      <string>support.type.sys-types.c</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#8fbfdc</string>
+      </dict>
+    </dict>
+
+    <!-- C: Highlight common data types from "stdint.h". -->
+    <dict>
+      <key>name</key>
+      <string>Standard Type</string>
+      <key>scope</key>
+      <string>support.type.stdint.c</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#8fbfdc</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Executable String</string>
+      <key>scope</key>
+      <string>string.interpolated</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#baeaba</string>
+      </dict>
+    </dict>
+
+    <!-- YAML: Highlight document separator. -->
+    <dict>
+      <key>name</key>
+      <string>Document Separator</string>
+      <key>scope</key>
+      <string>entity.other.document.begin.yaml</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#dc3264</string>
+      </dict>
+    </dict>
+
+  </array>
+  <key>uuid</key>
+  <string>4e4cdb00-2fb2-11e2-81c1-0800200c9a66</string>
+</dict>
+</plist>
