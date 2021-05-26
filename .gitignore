@@ -1,14 +1,18 @@
 *.bin.gz
 *.cache
+*.hidden-tmTheme
 *.hidden-tmTheme.chback
 *.hidden-color-scheme
+*.hidden-color-scheme.chback
 *.pyc
 *.sublime-theme
 *.tmTheme
 *.tmTheme.cache
 *.tmTheme.chback
+
 .DS_Store
 .SublimeREPLHistory
+
 Character Table/
 Color Highlighter
 FileHistory*.json
@@ -17,6 +21,7 @@ GitHub.sublime-settings
 GitSavvy/
 OmniMarkupPreviewer/
 oscrypto-ca-bundle.crt
+
 Package Control.*-ca-bundle
 Package Control.ca-bundle
 Package Control.ca-certs/
@@ -24,6 +29,7 @@ Package Control.ca-list
 Package Control.cache/
 Package Control.last-run
 Package Control.system-ca-bundle
+
 Projects/
 SublimeLinter/
 TextPastryHistory.sublime-settings
