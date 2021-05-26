@@ -1,5 +1,5 @@
 # Sublime Text - User Directory
-These are my settings and packages that I have installed for my personal use, if you find them useful, feel free to use them for yourself. If you wish to see my Sublime Text settings you can [click here](https://github.com/guitaristtom/sublimemergesettings).
+These are my settings and packages that I have installed for my personal use, if you find them useful, feel free to use them for yourself. If you wish to see my Sublime Merge settings you can [click here](https://github.com/guitaristtom/sublimemergesettings).
 
 ### Pre-installation
 
