@@ -1,2 +1,0 @@
-PHP Code Sniffer:
-composer global require friendsofphp/php-cs-fixer

@@ -1,6 +1,7 @@
 *.bin.gz
 *.cache
 *.hidden-tmTheme.chback
+*.hidden-color-scheme
 *.pyc
 *.sublime-theme
 *.tmTheme
@@ -26,5 +27,4 @@ Package Control.system-ca-bundle
 Projects/
 SublimeLinter/
 TextPastryHistory.sublime-settings
-Theme-Switcher.cache/
 Terminus/

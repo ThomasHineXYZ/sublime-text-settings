@@ -2,4 +2,3 @@
 
 # For PHP fixing
 composer global require friendsofphp/php-cs-fixer
-
