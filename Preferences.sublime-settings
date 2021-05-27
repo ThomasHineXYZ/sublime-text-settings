@@ -3,7 +3,7 @@
 	"auto_complete_selector": "meta.tag - punctuation.definition.tag.begin, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc, text.plain",
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Boron Color Scheme/Boron.tmTheme",
+	"color_scheme": "Packages/User/Boron.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
