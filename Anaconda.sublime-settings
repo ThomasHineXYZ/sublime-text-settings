@@ -4,11 +4,23 @@
     "anaconda_linter_mark_style": "squiggly_underline",
     "autoformat_ignore":
     [
+        "E309", // Auto ignored anyways by the Anaconda package
         "E128", // Split lines. Might not need for too long, but for now this is annoying
+        "E129", // Split lines. Might not need for too long, but for now this is annoying
         "E309", // In the Anaconda default settings this is ignored
         "W503", // Split lines. Might not need for too long, but for now this is annoying
         "W504", // Split lines. Might not need for too long, but for now this is annoying
         "W604", // This is to allow backticks in quotes
+    ],
+    "pep8_ignore":
+    [
+        "E309",
+        "E128",
+        "E129",
+        "E309",
+        "W503",
+        "W504",
+        "W604",
     ],
     "pep8_max_line_length": 120, // Because 79 is waaaaaay too short
 }
